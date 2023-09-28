@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-I'm now a ALX Student, this is my third repository as a full-stack engineer
+This directory is full of .exe scripts that allow you to do different things.
