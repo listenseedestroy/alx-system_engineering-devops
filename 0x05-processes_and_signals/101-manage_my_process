@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# manages manage_my_process by either starting it, stopping it or restarting it.
